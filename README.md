@@ -364,7 +364,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 ### 测试
-![](https://github.com/tyut-zhangzhiyuan/four/blob/master/test/测试1.png)
+![](https://github.com/wangnen/four-arithmetic-operation/blob/master/test/测试1.png)
 
 ### PSP表格
 ![](https://github.com/tyut-zhangzhiyuan/four/blob/master/PSP.png)
